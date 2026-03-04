@@ -1,3 +1,2 @@
-scikit-learn==1.1.2
 tpot==0.12.1
-setuptools>=65
+setuptools==65.7.0
